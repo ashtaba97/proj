@@ -7,7 +7,9 @@ public class MainApplication {
     }
 
     public static void doSomething() {
-        System.out.println("1111111");
+        System.out.println("1");
+        System.out.println("2");
+        System.out.println("3");
 
     }
 }
